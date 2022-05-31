@@ -1,0 +1,24 @@
+body{
+    background-color: pink;
+
+}
+ h1{
+     color: whitesmoke;
+     font-family: 'Josefin Sans', sans-serif;
+     font-family: 'Source Code Pro', monospace; 
+ }
+
+ div{
+     color: grey;
+
+ }
+
+ h2{
+     color: rgb(17, 11, 73);
+     font-family: 'Source Code Pro', monospace
+ }
+
+ p{
+     color: darkgreen;
+     font-family: 'Source Code Pro', monospace
+ }

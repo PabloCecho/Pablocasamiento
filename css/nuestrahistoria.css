@@ -1,0 +1,11 @@
+.historias{
+    display: grid;
+    background-color: aqua;
+    grid-template-columns: 2;
+}
+.historias div{
+    background-color: coral;
+    text-align: left;
+    color: white;
+    border: 1px solid black;
+}
